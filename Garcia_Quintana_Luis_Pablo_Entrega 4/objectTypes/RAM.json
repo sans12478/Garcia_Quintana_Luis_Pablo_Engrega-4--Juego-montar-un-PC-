@@ -1,0 +1,9 @@
+{
+	"name": "RAM",
+	"plugin-id": "TextBox",
+	"sid": 446593703892944,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": []
+}
