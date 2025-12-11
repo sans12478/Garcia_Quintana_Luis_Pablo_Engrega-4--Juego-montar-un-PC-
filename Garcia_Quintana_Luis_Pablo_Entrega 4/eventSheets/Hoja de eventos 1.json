@@ -230,8 +230,8 @@
 			"actions": [
 				{
 					"id": "set-position",
-					"objectClass": "Sprite4",
-					"sid": 225450474591247,
+					"objectClass": "Sprite7",
+					"sid": 307104491157983,
 					"parameters": {
 						"x": "74.310382",
 						"y": "284.235837"
@@ -239,8 +239,8 @@
 				},
 				{
 					"id": "pin-to-object-properties",
-					"objectClass": "Sprite4",
-					"sid": 209720346472904,
+					"objectClass": "Sprite7",
+					"sid": 459745235687527,
 					"behaviorType": "Pegado",
 					"parameters": {
 						"pin-to": "Sprite2",
@@ -433,8 +433,8 @@
 			"actions": [
 				{
 					"id": "set-enabled",
-					"objectClass": "Sprite7",
-					"sid": 829023583177195,
+					"objectClass": "Sprite4",
+					"sid": 468811656545503,
 					"behaviorType": "ArrastrarYSoltar",
 					"parameters": {
 						"state": "disabled"
