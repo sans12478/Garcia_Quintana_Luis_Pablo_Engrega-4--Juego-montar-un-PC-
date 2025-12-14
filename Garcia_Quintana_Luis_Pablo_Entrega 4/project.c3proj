@@ -60,7 +60,8 @@
 			"PS",
 			"Ventilador",
 			"CPU",
-			"Grafica"
+			"Grafica",
+			"Texto2"
 		],
 		"subfolders": []
 	},
